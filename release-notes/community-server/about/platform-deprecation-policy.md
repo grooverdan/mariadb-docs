@@ -19,17 +19,17 @@ The MariaDB project builds packages for the following:
 | Ubuntu 25.04 "Plucky"                        | Jan 2026                 |
 | Fedora 42                                    | Apr 2026                 |
 | Debian 11 "Bullseye" (i386, amd64 and arm64) | Jun 2026                 |
-| Debian 12 "Bookworm" (ppc64el)               | Jun 2026                 |
 | Windows Server 2022                          | Oct 2026                 |
 | Windows 11 24H2                              | Oct 2026                 |
+| Fedora 43                                    | Dec 2026                 |
 | Ubuntu 22.04 "Jammy"                         | Jun 2027                 |
 | CentOS Stream 9                              | May 2027                 |
-| Debian 12 "Bookworm" (i386, amd64 and arm64) | Jun 2028                 |
-| Debian 13 "Trixie" (ppc64el)                 | Jun 2028                 |
+| Fedora 44                                    | Aug 2027                 |
+| Debian 12 "Bookworm"                         | Jun 2028                 |
 | Red Hat Enterprise Linux 8.x                 | Jun 2029                 |
 | Ubuntu 24.04 "Noble"                         | Jun 2029                 |
 | CentOS Stream 10                             | Jan 2030                 |
-| Debian 13 "Trixie" (i386, amd64 and arm64)   | Jun 2030                 |
+| Debian 13 "Trixie"                           | Jun 2030                 |
 | SLES 15 SP7                                  | Jun 2031                 |
 | Red Hat Enterprise Linux 9.x                 | Jun 2032                 |
 | Red Hat Enterprise Linux 10.x                | May 2035                 |
